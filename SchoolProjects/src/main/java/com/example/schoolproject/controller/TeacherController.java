@@ -28,7 +28,6 @@ public class TeacherController {
         teacherService.deleteTeacher(id);
         return ResponseEntity.noContent().build();
     }
-    // githubdesktop trail commit
-    //again new push
+    //thirdcommit added newly
 
 }
