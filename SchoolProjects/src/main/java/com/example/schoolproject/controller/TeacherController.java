@@ -28,6 +28,6 @@ public class TeacherController {
         teacherService.deleteTeacher(id);
         return ResponseEntity.noContent().build();
     }
-    //thirdcommit added newly
+    //secondcommit added newly
 
 }
